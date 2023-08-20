@@ -1,0 +1,1 @@
+pyinstaller -F --uac-admin -i favicon.ico StarRail_Start.py
